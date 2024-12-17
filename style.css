@@ -648,6 +648,9 @@ body {
         width: 90%;
         margin: 3rem auto;
     }
+    .logo {
+        font-size: 3.8rem;
+    }
 }
 
 /* ############# landscape mode ############# */
